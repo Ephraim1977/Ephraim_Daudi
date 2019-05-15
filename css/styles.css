@@ -1,0 +1,83 @@
+.container {
+	background-color:
+}
+
+.firstcontainer {
+	background-color:
+}
+
+.chinichini {
+	background-color: blueviolet;
+}
+
+.jumbotron {
+	background-color:#9932CC; 
+	color:white;
+}
+
+.lastcontainer {
+
+	background-color:thistle;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.modal {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+ }
+
+ .carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    max-height: 30px;
+}
+
+.modal-header{
+    background-color:#512DA8;	
+    
+}
+
+.modal-body {
+    background-color: #D1C4E9;
+
+}
+
+.modal-title {
+	color: #FFFAF0;
+}
+
+.close {
+	color: #FFFAF0;
+}
+
+#img1 {
+    height: 200px;
+}
+
+.faImg {
+    height:30px;
+    width:41px;
+}
